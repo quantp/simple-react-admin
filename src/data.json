@@ -1,0 +1,42 @@
+[
+    {
+      "firstname": "Isidra",
+      "lastname": "Hero",
+      "jobtitle": "Traffic Court Referee",
+      "DOB": "22 Jun 1972",
+      "status": "Active",
+      "id": "1"
+    },
+    {
+      "firstname": "Hideo",
+      "lastname": "Boudreaux",
+      "jobtitle": "Traffic Court Referee",
+      "DOB": "22 Jun 1972",
+      "status": "Active",
+      "id": "2"
+    },
+    {
+      "firstname": "Takashi",
+      "lastname": "Boudreaux",
+      "jobtitle": "Traffic Court Referee",
+      "DOB": "22 Jun 1972",
+      "status": "Active",
+      "id": "3"
+    },
+    {
+      "firstname": "Isidra",
+      "lastname": "Boudreaux",
+      "jobtitle": "Traffic Court Referee",
+      "DOB": "22 Jun 1972",
+      "status": "Active",
+      "id": "4"
+    },
+    {
+      "firstname": "Yamaha",
+      "lastname": "Boudreaux",
+      "jobtitle": "Traffic Court Referee",
+      "DOB": "22 Jun 1972",
+      "status": "Active",
+      "id": "5"
+    }
+  ]
